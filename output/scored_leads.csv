@@ -1,0 +1,17 @@
+company,contact_name,designation,industry,employees,city,source,budget,decision_maker,need,timeline_months,pain_point,score,category,next_action
+Skyline Realty,Arjun Mehta,Head of Sales,Real Estate,250,Mumbai,LinkedIn,Yes,Yes,High,1,Slow follow-up on property enquiries,100,Hot,Schedule product demo with Account Executive
+LearnSphere Academy,Sneha Iyer,Founder,EdTech,90,Bengaluru,LinkedIn,Yes,Yes,High,1,Low conversion of course enquiries,100,Hot,Schedule product demo with Account Executive
+SecureLife Insurance,Amit Shah,Director Sales,BFSI,2000,Mumbai,LinkedIn,Yes,Yes,High,1,Policy renewal reminders missed,100,Hot,Schedule product demo with Account Executive
+QuickLoan Finserv,Isha Agarwal,CEO,BFSI,300,Gurugram,Inbound,Yes,Yes,High,1,KYC document collection delays,100,Hot,Schedule product demo with Account Executive
+FinEdge Capital,Priya Nair,VP Customer Experience,BFSI,1200,Mumbai,Cold Call,Yes,Yes,High,2,High volume of loan status queries,90,Hot,Schedule product demo with Account Executive
+AutoPrime Dealers,Sameer Khan,Sales Head,Auto,220,Mumbai,LinkedIn,Yes,Yes,High,2,No single view of customer chats,90,Hot,Schedule product demo with Account Executive
+HomeKey Developers,Ritu Desai,CMO,Real Estate,320,Thane,Cold Call,Yes,Yes,Medium,2,Site visit scheduling is manual,80,Hot,Schedule product demo with Account Executive
+CarHub Motors,Vikram Singh,General Manager,Auto,400,Pune,Inbound,Yes,No,High,3,Test drive leads not followed up,65,Warm,Send case study + follow-up call in 3 days
+CityClinic Network,Kavya Menon,Patient Experience Lead,Healthcare,350,Chennai,LinkedIn,Yes,No,High,2,Report sharing done over email,65,Warm,Send case study + follow-up call in 3 days
+MediCare Plus,Dr. Anjali Rao,Operations Head,Healthcare,600,Hyderabad,Cold Call,No,Yes,Medium,3,Appointment no-shows,55,Warm,Send case study + follow-up call in 3 days
+UrbanCart,Karan Malhotra,Growth Lead,Retail,150,Mumbai,LinkedIn,Yes,No,Medium,2,Abandoned carts not recovered,55,Warm,Send case study + follow-up call in 3 days
+WanderWay Travels,Pooja Bhatt,Owner,Travel,40,Jaipur,Email,No,Yes,Low,6,Small team handling all chats,35,Cold,Add to monthly nurture email list
+TripNest Holidays,Rohan Kapoor,Marketing Manager,Travel,180,Delhi,Email,No,No,Medium,4,Booking reminders sent manually,20,Cold,Add to monthly nurture email list
+SkillUp Online,Manish Verma,Sales Manager,EdTech,120,Noida,Inbound,No,No,Medium,5,Leads lost after first call,20,Cold,Add to monthly nurture email list
+FreshBasket Foods,Neha Gupta,Brand Manager,FMCG,800,Ahmedabad,Email,No,No,Low,6,Distributor communication scattered,10,Cold,Add to monthly nurture email list
+StyleStreet Fashion,Aditya Joshi,E-commerce Head,Retail,90,Mumbai,Cold Call,No,No,Low,8,Low repeat purchases,5,Cold,Add to monthly nurture email list
